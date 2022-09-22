@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  letslexicon:
+    repository: troykelly/hassio-addons-letsencrypt-lexicon
+    target: letslexicon
+    image: ghcr.io/troykelly/hassio-addons/letslexicon/{arch}
