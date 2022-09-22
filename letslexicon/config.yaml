@@ -203,7 +203,7 @@ schema:
   - str
   email: email
   keyfile: str
-  updatedelay: int(0, 3600)
+  updatedelay: int?
 slug: letslexicon
 url: https://github.com/troykelly/hassio-addons-letsencrypt-lexicon/
-version: 3.0.0
+version: 3.0.1
