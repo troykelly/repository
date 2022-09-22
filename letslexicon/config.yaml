@@ -6,7 +6,7 @@ arch:
 - i386
 codenotary: codenotary@troykelly.com
 description: Manage certificate from Let's Encrypt using Lexicon DNS
-image: ghcr.io/troykelly/hassio-addons/letslexicon/{arch}
+image: ghcr.io/troykelly/letslexicon/{arch}
 init: false
 map:
 - ssl:rw
@@ -164,4 +164,4 @@ schema:
   keyfile: str
 slug: letslexicon
 url: https://github.com/troykelly/hassio-addons-letsencrypt-lexicon/
-version: 2.0.0
+version: 2.0.1
