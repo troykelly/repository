@@ -1,9 +1,5 @@
 ## What's changed
 
-**PLEASE READ BREAKING CHANGES**
+## 🚀 Enhancements
 
-## 🚨 Breaking changes
-
-You will need to update your configuration to support the updated variables used by lexicon and dehydrated. It is the provider name underscore and then their variables as detailed here https://dns-lexicon.readthedocs.io/en/latest/configuration_reference.html
-
-E.g. `cloudflare_ auth_username`
+- Adding and updating config schema @troykelly (#35)
