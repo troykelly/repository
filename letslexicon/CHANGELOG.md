@@ -2,4 +2,4 @@
 
 ## 🐛 Bug fixes
 
-- Update Dockerfile to install correct scripts @troykelly (#50)
+- Update Dockerfile @troykelly (#52)
