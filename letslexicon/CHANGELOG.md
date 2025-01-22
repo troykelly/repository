@@ -1,5 +1,9 @@
 ## What's changed
 
-## 🚀 Enhancements
+## 🧰 Maintenance
 
-- Adding and updating config schema @troykelly (#35)
+- 47 version bump @troykelly (#48)
+
+## 📚 Documentation
+
+- Update README.md @troykelly (#41)
