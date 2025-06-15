@@ -1,5 +1,5 @@
 ## What's changed
 
-## 🐛 Bug fixes
+## 🚀 Enhancements
 
-- Update Dockerfile @troykelly (#52)
+- Subdomain @cyr-ius (#53)
